@@ -1,2 +1,2 @@
-ALL_SOLAR.EXE
+ALL_SOLAR.exe
 
